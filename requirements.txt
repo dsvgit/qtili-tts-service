@@ -1,0 +1,11 @@
+torch==1.10.2
+numpy==1.23.5
+espnet==202304
+espnet-model-zoo==0.1.7
+soundfile==0.10.3.post1
+sndfile==0.2.0
+parallel-wavegan==0.5.5
+
+fastapi==0.98.0
+uvicorn==0.22.0
+python-multipart==0.0.6

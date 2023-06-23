@@ -1,0 +1,5 @@
+https://issai.nu.edu.kz/wp-content/uploads/2022/03/kaztts_female1_tacotron2_train.loss.ave.zip
+https://issai.nu.edu.kz/wp-content/uploads/2022/03/kaztts_female2_tacotron2_train.loss.ave.zip
+https://issai.nu.edu.kz/wp-content/uploads/2022/03/kaztts_female3_tacotron2_train.loss.ave.zip
+https://issai.nu.edu.kz/wp-content/uploads/2022/03/kaztts_male1_tacotron2_train.loss.ave.zip
+https://issai.nu.edu.kz/wp-content/uploads/2022/03/kaztts_male2_tacotron2_train.loss.ave.zip

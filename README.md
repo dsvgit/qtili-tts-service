@@ -40,6 +40,7 @@ python3 -m pip install -r requirements.txt
 - espnet docs: https://espnet.github.io/espnet/installation.html
 - Running espnet as a service: https://www.youtube.com/watch?v=ooEIfR3aw44
 - My TTS Service: https://github.com/espnet/espnet/blob/2e8a588a6910e8cd2ee095ca05ebc374125399e6/MyTTsService.py
+- FastAPI in production setup: https://stribny.name/blog/fastapi-production/
 
 ## Curl
 ```
